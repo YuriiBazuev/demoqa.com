@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="475a9248-2d90-41bf-b321-c614e51120e0" name="Changes" comment="first load" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="XML Properties File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2VD098u3WzdThlKBjPRnLqMZgie" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/G1.DESKTOP-3F583F9/IdeaProjects/Sample_for_HH",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.Tests">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Sample_for_HH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Sample_for_HH" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DEMOQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoqa.textbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.democa" />
+      <option name="MAIN_CLASS_NAME" value="com.demoqa.Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.alertsFrameWindows" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DEMOQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.democa" />
+      <option name="MAIN_CLASS_NAME" value="com.demoqa.Tests" />
+      <option name="METHOD_NAME" value="alertsFrameWindows" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.assertField" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DEMOQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.democa" />
+      <option name="MAIN_CLASS_NAME" value="com.demoqa.Tests" />
+      <option name="METHOD_NAME" value="assertField" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.clickMouseButtoms" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DEMOQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Alerts_Frame_and_Windows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.democa" />
+      <option name="MAIN_CLASS_NAME" value="com.demoqa.Tests" />
+      <option name="METHOD_NAME" value="clickMouseButtoms" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.openWebSite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DEMOQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoqa.textbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.democa" />
+      <option name="MAIN_CLASS_NAME" value="com.demoqa.Tests" />
+      <option name="METHOD_NAME" value="openWebSite" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Tests" />
+        <item itemvalue="TestNG.Tests.openWebSite" />
+        <item itemvalue="TestNG.Tests.alertsFrameWindows" />
+        <item itemvalue="TestNG.Tests.assertField" />
+        <item itemvalue="TestNG.Tests.clickMouseButtoms" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="475a9248-2d90-41bf-b321-c614e51120e0" name="Changes" comment="" />
+      <changelist id="" name="New changelist" comment="" />
+      <created>1694355190235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694355190235</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1695706251835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695706251835</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <created>1695706298625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695706298625</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
